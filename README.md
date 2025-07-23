@@ -62,5 +62,12 @@ $mobile: 800px;
 }
 
 ## Extension
-😉
+.main .main__paragraph1 {
+    ...
+}
+.main .main__paragraph2 {
+    @extend .main__paragraph1;
+}
 
+## Calculations
+Sass calculation can be done without the css calc function. And types must not be mixed during calculations.
